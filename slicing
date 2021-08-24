@@ -1,0 +1,1 @@
+lert(prompt("write your tweet").slice(0,14));
