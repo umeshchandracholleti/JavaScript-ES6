@@ -1,1 +1,23 @@
+
+
+code_1
+
 var myname = "ravi"; var yourname =prompt("what is ur naem:"); alert("My NAME is " + myname + "welcome to these course" + yourname + "!");
+
+
+code_2
+
+function test()
+{
+   var a = '5'
+   var b = '3'
+    var c = a;
+     a = b;
+     b = c;
+    }
+
+
+
+code_3
+
+alert("hello " + " World");
