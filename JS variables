@@ -1,0 +1,1 @@
+var myname = "ravi"; var yourname =prompt("what is ur naem:"); alert("My NAME is " + myname + "welcome to these course" + yourname + "!");
